@@ -2,9 +2,11 @@
 using namespace std;
 int main () {
     cout << " ===== FOR LOOPS ===== " << endl;
-    // Write a loop to print all even numbers from 1 to 100.
+    //Take an integer n as input from the user and print all numbers from 1 to n using a for loop.
+    int n;
+    cin >> n;
 
-    for (int i = 2; i <= 100; i+=2) {
+    for (int i = 1; i <= n; i++) {
         cout << i << endl;
     }
     return 0;
