@@ -34,6 +34,24 @@ int main () {
    return 0;
 }
 
+#include<iostream>
+using namespace std;
+int main () {
+   // int a = 0;
+   // if ( a = 0 ) cout << " Jitendra ";
+   // else cout << " Anjali ";
+
+   // int x = 4, y = 6;
+   // if (x++ || y++) cout << x << y;
+   // else cout << " pranav " << endl;
+
+   int x = 0;
+   if ( x++ ) cout << " Aniket ";
+   else cout << " Sheetal ";
+}
+
+
+
     
 
     

@@ -1,18 +1,19 @@
 #include <iostream>
 using namespace std;
 int main() {
-    //Write a C++ program that takes an integer N as input and prints all numbers from 1 to N using a while loop.
+    // Write a C++ program that takes an integer N as input and calculates the sum of all numbers from 1 to N using a while loop.
     int n;
     cin >> n;
 
-    cout << " ===== While Loop =====" << endl;
+    cout << " ===== While loop ===== " << endl;
     int i = 1;
-
-
-    while (i <= n){
-        cout << i << endl;
-        i++;
+    int sum  = 0;
+    while (i <= n) {
+         sum = sum + i;
+         i++;
     }
-    return 0;
 
+        cout << sum << endl;
+        
+    return 0;
 }
