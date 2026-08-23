@@ -1,13 +1,12 @@
 #include<iostream>
 using namespace std;
 int main () {
-    cout << " ===== FOR LOOPS ===== " << endl;
-    //Take an integer n as input from the user and print all numbers from 1 to n using a for loop.
-    int n;
+        int n;
+    cout << " Enter a number " << endl;
     cin >> n;
-
-    for (int i = 1; i <= n; i++) {
-        cout << i << endl;
+    // 8 itreation of loops 
+    for ( int i=-2; i<=5; i++ ) {
+        cout << "Pranav" << endl;
     }
     return 0;
 }
