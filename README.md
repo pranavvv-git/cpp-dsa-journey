@@ -1,119 +1,57 @@
-# 🚀 C++ & Data Structures & Algorithms Journey
+# # 💻 C++ & DSA Journey
 
-> *"Every expert was once a beginner. This repository reflects my commitment to learning, improving, and growing as a software developer."*
+A personal repository documenting my journey of learning C++ and Data Structures & Algorithms.
 
----
+I created this repository to practice programming, understand concepts through hands-on coding, and keep track of my progress as I gradually move toward problem solving and DSA.
 
-# 👋 Welcome
+## About This Repository
 
-Hi! I'm **Pranav Thakur**.
+This repository contains the programs and practice work I write while learning C++ and DSA.
 
-This repository is a collection of my C++ programs and Data Structures & Algorithms (DSA) practice. It serves as a record of my learning journey, where I upload the concepts, programs, and problem-solving exercises I complete while building a strong foundation in programming.
+Instead of only collecting solutions, I use this repository to understand concepts, practice them through code, and improve my problem-solving approach over time.
+Learning Approach
 
-Rather than only showcasing completed work, this repository represents continuous learning, consistency, and improvement.
+My approach is simple:
 
----
+Understand → Practice → Solve → Improve
 
-# 🎯 Purpose
+I focus on understanding the logic behind a concept before moving to problems based on it.
 
-The main objectives of this repository are to:
+I write and test programs myself, learn from mistakes, and gradually improve my solutions as I gain more experience.
 
-- Learn Modern C++ from basic to advanced concepts.
-- Develop strong logical thinking and problem-solving skills.
-- Master Data Structures & Algorithms.
-- Maintain consistency through regular coding practice.
-- Write clean, readable, and efficient code.
-- Prepare for Software Engineering internships and placements.
+Current Focus
+Strengthening C++ fundamentals
+Improving logical thinking and problem-solving skills
+Practicing Data Structures & Algorithms
+Writing code consistently
+Building a strong foundation for software development
+Progress
 
----
+This repository is a work in progress.
 
-# 📂 Repository Structure
+As I learn new concepts, I will continue adding programs, practice problems, and more advanced topics.
 
-```
+The goal is to build strong fundamentals step by step rather than rushing through the learning process.
+
+Programming Language
+
+C++
+
+```text
 cpp-dsa-journey
 │
-├── 📁 01_Basics
-├── 📁 02_Patterns
-├── 📁 03_Functions
-├── 📁 04_Arrays
-├── 📁 05_Strings
-├── 📁 06_Pointers
-├── 📁 07_STL
-├── 📁 08_OOP
-├── 📁 09_Recursion
-├── 📁 10_Searching_Sorting
-├── 📁 11_Linked_List
-├── 📁 12_Stacks_Queues
-├── 📁 13_Trees
-├── 📁 14_Graphs
-└── 📁 15_Dynamic_Programming
-```
-
----
-
-# 📚 Topics Included
-
-- C++ Fundamentals
-- Input & Output
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Patterns
-- Arrays
-- Strings
-- Pointers
-- Object-Oriented Programming (OOP)
-- Standard Template Library (STL)
-- Recursion
-- Searching & Sorting
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
-
----
-
-# 💻 Programming Language
-
-- **C++**
-
----
-
-# 🌱 Learning Approach
-
-I believe that programming is built through consistent practice rather than shortcuts.
-
-Every program added to this repository represents a concept I have learned and understood. As my knowledge grows, this repository will continue to evolve with better solutions, cleaner code, and more advanced topics.
-
----
-
-# 📌 Repository Goals
-
-✔ Build a strong programming foundation
-
-✔ Improve problem-solving ability
-
-✔ Learn industry-standard coding practices
-
-✔ Create a well-organized coding portfolio
-
-✔ Prepare for coding interviews and placements
-
----
-
-# 🤝 Contribution
-
-This repository is maintained as a personal learning project. Suggestions, improvements, and constructive feedback are always appreciated.
-
----
-
-# ⭐ Thank You
-
-Thank you for visiting my repository.
-
-If you find this repository useful or inspiring, consider giving it a ⭐.
-
-Happy Coding! 🚀
+├── 01_Basics
+├── 02_Patterns
+├── 03_Functions
+├── 04_Arrays
+├── 05_Strings
+├── 06_Pointers
+├── 07_STL
+├── 08_OOP
+├── 09_Recursion
+├── 10_Searching_Sorting
+├── 11_Linked_List
+├── 12_Stacks_Queues
+├── 13_Trees
+├── 14_Graphs
+└── 15_Dynamic_Programming
