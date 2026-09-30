@@ -20,12 +20,12 @@ I focus on understanding the logic behind a concept before moving to problems ba
 I write and test programs myself, learn from mistakes, and gradually improve my solutions as I gain more experience.
 
 Current Focus
-Strengthening C++ fundamentals
-Improving logical thinking and problem-solving skills
-Practicing Data Structures & Algorithms
-Writing code consistently
-Building a strong foundation for software development
-Progress
+Strengthening C++ fundamentals,
+Improving logical thinking and problem-solving skills,
+Practicing Data Structures & Algorithms,
+Writing code consistently,
+Building a strong foundation for software development,
+Progress.
 
 This repository is a work in progress.
 
