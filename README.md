@@ -1,4 +1,4 @@
-# # 💻 C++ & DSA Journey
+ # 💻 C++ & DSA Journey
 
 A personal repository documenting my journey of learning C++ and Data Structures & Algorithms.
 
